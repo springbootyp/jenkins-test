@@ -20,7 +20,7 @@ package com.jenkins.ci.apple.controller;
  */
 public class Apple {
 
-    private String appName = "Jenkins Test  ...111 222";
+    private String appName = "Jenkins Test  ...111 222 333";
 
     public String getAppName(){
         return appName;
